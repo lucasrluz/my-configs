@@ -1,0 +1,13 @@
+call plug#begin()
+  Plug 'neovim/nvim-lspconfig'
+  Plug 'hrsh7th/nvim-cmp'
+  Plug 'hrsh7th/cmp-nvim-lsp'
+  Plug 'saadparwaiz1/cmp_luasnip'
+  Plug 'L3MON4D3/LuaSnip'
+  Plug 'cohama/lexima.vim'
+  Plug 'pantharshit00/vim-prisma'
+  Plug 'kyazdani42/nvim-web-devicons'
+  Plug 'kyazdani42/nvim-tree.lua'
+  Plug 'lifepillar/vim-solarized8'
+  Plug 'mhinz/vim-signify'
+call plug#end()
